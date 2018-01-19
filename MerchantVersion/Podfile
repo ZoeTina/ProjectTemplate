@@ -1,0 +1,10 @@
+platform :'ios','9.0'
+target 'MerchantVersion' do
+  pod 'AFNetworking'
+  pod 'MJExtension'
+  pod 'MBProgressHUD'
+  pod 'SDWebImage'
+  pod 'MJRefresh'
+  pod 'Masonry'
+  use_frameworks!
+end

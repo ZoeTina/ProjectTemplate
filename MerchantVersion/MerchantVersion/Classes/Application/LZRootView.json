@@ -1,0 +1,27 @@
+
+[
+    {
+         "title":"消息",
+         "imageName":"tab_messages_nor",
+         "imageSelectName":"tab_messages_press",
+         "controllerName":"MVTestViewController"
+    },
+    {
+         "title":"通讯录",
+         "imageName":"tab_groups_nor",
+         "imageSelectName":"tab_groups_press",
+         "controllerName":"MVBViewController"
+    },
+     {
+         "title":"发现",
+         "imageName":"tab_dynamic_nor",
+         "imageSelectName":"tab_dynamic_press",
+         "controllerName":"MVCViewController"
+     },
+     {
+         "title":"我",
+         "imageName":"tab_me_nor",
+         "imageSelectName":"tab_me_press",
+         "controllerName":"MVPViewController"
+     }
+ ]

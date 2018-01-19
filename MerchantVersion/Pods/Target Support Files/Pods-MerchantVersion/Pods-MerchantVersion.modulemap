@@ -1,0 +1,6 @@
+framework module Pods_MerchantVersion {
+  umbrella header "Pods-MerchantVersion-umbrella.h"
+
+  export *
+  module * { export * }
+}
